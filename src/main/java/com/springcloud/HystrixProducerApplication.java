@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class HystrixProviderApplication {
+public class HystrixProducerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HystrixProviderApplication.class, args);
+		SpringApplication.run(HystrixProducerApplication.class, args);
 	}
 
 }

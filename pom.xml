@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springcloud</groupId>
-	<artifactId>HystrixProvider</artifactId>
+	<artifactId>HystrixProducer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HystrixProvider</name>
+	<name>HystrixProducer</name>
 	<description>Proder to test Hystrix </description>
 	<properties>
 		<java.version>1.8</java.version>
